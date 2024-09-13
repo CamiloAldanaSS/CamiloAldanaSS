@@ -15,11 +15,9 @@ github-readme-stats-kappa-two-67.vercel.app
 
 # 📊 GitHub Stats:
 
- <img src="https://github-readme-stats-c6qq.vercel.app/api?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloAldanaSS&theme=radical&hide_border=false"> <br/>
- <img src="https://github-readme-stats-c6qq.vercel.app/api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
- <img src="https://github-readme-stats-c6qq.vercel.app/api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-
+ <img src="https://githubstats-git-main-camilo-aldanas-projects-c1f04c98.vercel.app/api?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>  
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloAldanaSS&theme=radical&hide_border=false"> <br/>  
+ <img src="https://githubstats-git-main-camilo-aldanas-projects-c1f04c98.vercel.app/api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>
 
 ---
 
