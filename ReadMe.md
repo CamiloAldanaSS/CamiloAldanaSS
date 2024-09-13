@@ -12,10 +12,27 @@
 
 # 📊 GitHub Stats:
 
- <img src="https://githubstats-git-main-camilo-aldanas-projects-c1f04c98.vercel.app/api?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>  
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloAldanaSS&theme=radical&hide_border=false"> <br/>  
- <img src="https://githubstats-git-main-camilo-aldanas-projects-c1f04c98.vercel.app//api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
- <img src="https://githubstats-git-main-camilo-aldanas-projects-c1f04c98.vercel.app//api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>
+ <img src="https://github-readme-stats-bice-xi.vercel.app/api?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloAldanaSS&theme=radical&hide_border=false"> <br/>
+ <img src="https://github-readme-stats-bice-xi.vercel.app/api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact"><br/>
+ <img src="https://github-readme-stats-bice-xi.vercel.app/api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie"><br/>
+ <img src="https://github-readme-stats-bice-xi.vercel.app/api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>
+ <img src="https://githubstats-rose.vercel.app/api/top-langs/?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=pie"><br/>
+
+ 
+ 
+
+ <picture>
+  <source
+    srcset="https://github-readme-stats-bice-xi.vercel.app/api?username=CamiloAldanaSS&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats-bice-xi.vercel.app/api?username=CamiloAldanaSS&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats-bice-xi.vercel.app/api?username=CamiloAldanaSS&show_icons=true" />
+</picture>
  
 ---
 
