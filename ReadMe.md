@@ -3,6 +3,24 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;Always+learning+new+things"></a>
 </p>
 
+[![](https://visitcount.itsvg.in/api?id=CamiloAldanaSS&icon=2&color=1)](https://visitcount.itsvg.in)
+
+```python
+class CamiloAldanaInfo():
+    
+  def __init__(self):
+    self.name = "Camilo Aldana"
+    self.username = "CamiloAldanaSS"
+    self.location = "Bogotá, Colombia"
+    self.instagram = "@camiloaldanass"
+    self.web = "https://camiloaldana.dev"
+  
+  def __str__(self):
+    return self.name
+
+if __name__ == '__main__':
+    me = CamiloAldanaInfo()
+```
 
 <br>
 <div align="center">
@@ -31,7 +49,7 @@
 
 # 📊 GitHub Stats:
 
- <img src="https://github-readme-stats-zppk.vercel.app/api?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>  
+ <img src="https://github-readme-stats-zppk.vercel.app/api?username=CamiloAldanaSS&theme=radical&hide_border=false&include_all_commits=true&count_private=true"> 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CamiloAldanaSS&theme=radical&hide_border=false"> <br/>  
  <img src="https://github-readme-stats-zppk.vercel.app/api/top-langs/?username=CamiloAldanaSS&exclude_repo=github-readme-stats,learngo&theme=radical&hide_border=false&include_all_commits=true&count_private=true"><br/>  
  
@@ -52,5 +70,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![](https://visitcount.itsvg.in/api?id=CamiloAldanaSS&icon=2&color=1)](https://visitcount.itsvg.in)
 </div>
